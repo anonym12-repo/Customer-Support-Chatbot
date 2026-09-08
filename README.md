@@ -446,23 +446,6 @@ The benchmark is designed to report **measured results rather than fabricated pe
 
 > Run the evaluation locally after installing dependencies and starting Ollama.
 
----
-
-# 🧪 11. Testing
-
-The project includes a `pytest` test suite covering deterministic components such as:
-
-- Router behavior
-- Order lookup
-- Conversation-state resolution
-- Guard behavior
-- Out-of-scope handling
-- Escalation behavior
-- Security-sensitive parsing
-
-LLM/retrieval-dependent tests can be skipped when the required local services are unavailable.
-
-This allows a meaningful portion of the system to be tested without requiring an LLM for every test.
 
 ---
 
