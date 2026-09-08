@@ -654,14 +654,6 @@ Then open the local Streamlit URL shown in your terminal.
 
 ---
 
-# 🧪 Run Tests
-
-```bash
-pytest -v
-```
-
----
-
 # 📈 Run Evaluation
 
 ```bash
@@ -897,7 +889,7 @@ Deploy the Streamlit/API layer and model infrastructure as separate services.
 
 ### Chatbot Interface
 
-_Add screenshot here_
+<img width="1911" height="867" alt="image" src="https://github.com/user-attachments/assets/758f679c-de8e-4a28-a2c5-2bfa792e58e8" />
 
 ```text
 docs/
@@ -906,9 +898,8 @@ docs/
 
 ### Example Interaction
 
-_Add your screen recording/GIF here._
+<img width="400" height="178" alt="20260908-2156-48 5427550" src="https://github.com/user-attachments/assets/ada25d2f-3220-411b-92c1-aa349e06ad5a" />
 
-Recommended GitHub-friendly format:
 
 ```text
 docs/
@@ -1016,15 +1007,6 @@ The resulting system combines **AI engineering, backend development, information
 
 ---
 
-## 📬 Contact
-
-**Hiba Zubairi**
-
-Bachelor of Information Technology | Computer Science & AI
-
-For internship or collaboration opportunities, please connect with me through GitHub or LinkedIn.
-
----
 
 ## ⚠️ Disclaimer
 
