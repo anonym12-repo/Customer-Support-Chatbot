@@ -891,20 +891,12 @@ Deploy the Streamlit/API layer and model infrastructure as separate services.
 
 <img width="1911" height="867" alt="image" src="https://github.com/user-attachments/assets/758f679c-de8e-4a28-a2c5-2bfa792e58e8" />
 
-```text
-docs/
-└── chatbot-screenshot.png
-```
 
 ### Example Interaction
 
 <img width="1906" height="846" alt="Adobe Express - 20260908-2156-48 5427550" src="https://github.com/user-attachments/assets/49e13c1d-2408-4abc-974a-0d354ac76733" />
 
 
-```text
-docs/
-└── demo.gif
-```
 
 Then embed it using:
 
