@@ -898,7 +898,7 @@ docs/
 
 ### Example Interaction
 
-<img width="400" height="178" alt="20260908-2156-48 5427550" src="https://github.com/user-attachments/assets/ada25d2f-3220-411b-92c1-aa349e06ad5a" />
+<img width="1906" height="846" alt="Adobe Express - 20260908-2156-48 5427550" src="https://github.com/user-attachments/assets/49e13c1d-2408-4abc-974a-0d354ac76733" />
 
 
 ```text
