@@ -903,14 +903,10 @@ Then embed it using:
 ```markdown
 ![Customer Support Chatbot Demo](docs/demo.gif)
 ```
+<img width="1280" height="720" alt="VideoProject61-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/60eebe46-6be9-4824-b469-b385433d4635" />
 
-A short demo should ideally show:
 
-1. A FAQ question
-2. A quick-action FAQ selection
-3. An order lookup
-4. A follow-up question using conversation context
-5. A case where the system safely declines an unsupported question
+
 
 ---
 
