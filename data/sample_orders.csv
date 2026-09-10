@@ -1,0 +1,6 @@
+order_id,customer_name,order_date,total,status,product_ids_ordered
+1001,John Doe,2024-11-20,120.50,Shipped,"[101,102]"
+1002,Emily Smith,2024-11-21,45.99,Pending,"[201]"
+1003,Michael Brown,2024-11-22,78.20,Cancelled,"[301,302]"
+1004,Sarah Johnson,2024-11-23,150.00,Shipped,"[101,102,103]"
+1005,David Lee,2024-11-24,65.75,Processing,"[501]"

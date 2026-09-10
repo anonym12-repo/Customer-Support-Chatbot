@@ -1,0 +1,11 @@
+[
+  {
+    "id": "esc_3f42c82f",
+    "timestamp": "2026-09-08T22:28:19.417099+00:00",
+    "conversation_id": "",
+    "order_number": 1002,
+    "reason": "Customer is unsure if it is too late to cancel their order",
+    "priority": "low",
+    "status": "pending"
+  }
+]
