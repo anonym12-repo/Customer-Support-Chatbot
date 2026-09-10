@@ -1,0 +1,1 @@
+"""Retrieval package: FAQ embedding, indexing and threshold-based retrieval."""
