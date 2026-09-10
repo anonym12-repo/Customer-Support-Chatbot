@@ -1,0 +1,28 @@
+# Environment / secrets
+.env
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Generated vector index
+chroma_db/
+
+# Generated FAQ PDF (build with: python data/build_faq_pdf.py)
+data/Company_FAQ.pdf
+
+# Escalation records generated at runtime
+data/escalations.json
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
