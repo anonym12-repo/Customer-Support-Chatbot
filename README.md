@@ -629,16 +629,18 @@ ollama serve
 
 The vector index needs to be created before running retrieval-based FAQ queries.
 
+Following software engineering best practices, the compiled ChromaDB vector database is intentionally excluded from this repository to prevent repository bloat and cross-platform binary conflicts. 
+
+You must generate the local vector index before running the application so the RAG pipeline has data to retrieve. 
+
+Run these commands from the root directory:
+
 ```bash
+# 1. Generate the PDF source document
 python data/build_faq_pdf.py
+
+# 2. Extract, chunk, embed, and index the data into ChromaDB
 python -m retrieval.index_faq
-```
-
-The index is stored locally in:
-
-```text
-chroma_db/
-```
 
 If the FAQ source changes, rebuild the index.
 
