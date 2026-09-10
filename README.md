@@ -900,9 +900,6 @@ Deploy the Streamlit/API layer and model infrastructure as separate services.
 
 Then embed it using:
 
-```markdown
-![Customer Support Chatbot Demo](docs/demo.gif)
-```
 <img width="1280" height="720" alt="VideoProject61-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/60eebe46-6be9-4824-b469-b385433d4635" />
 
 
